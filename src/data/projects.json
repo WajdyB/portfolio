@@ -1,0 +1,127 @@
+[
+  {
+    "title": "kiddostradez - Toy troc application",
+    "description": "A full-stack hybrid application that allows users to exchange toys with each other. Users can create accounts, post toys they want to exchange, and browse through available toys posted by others. The platform includes features for managing user profiles and toy listings.",
+    "techStack": [
+      "react.js",
+      "tailwind",
+      "Java",
+      "Springboot",
+      "MySQL"
+    ],
+    "img": "/projects/placeholder.png",
+    "liveDeployment": "",
+    "githubRepo": "https://github.com/WajdyB/kidossTradezz"
+  },
+  {
+    "title": "JobApp - Job Application Platform",
+    "description": "A full-stack job application platform that enables users to search, save, and filter jobs by category. Users can upload their resumes, manage their profiles, and track the status of applied jobs. The platform includes an admin feature for managing job application statuses and user accounts, as well as posting new job listings on the website.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Tailwind",
+      "Redux"
+    ],
+    "img": "/projects/placeholder.png",
+    "liveDeployment": "",
+    "githubRepo": ""
+  },
+  {
+    "title": "InvoicePRO - Invoicing Application",
+    "description": "A full-stack invoicing application that allows users to create, manage, and track invoices. Users can add items to their invoices, manage their profiles, and view their invoice history. The platform includes features for generating PDF invoices and sending them via email.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Next.js",
+      "MongoDB",
+      "Tailwind"
+    ],
+    "img": "/projects/placeholder.png",
+    "liveDeployment": "",
+    "githubRepo": ""
+  },
+  {
+    "title": "MyBuilder - cms for building websites",
+    "description": "A full-stack cms application that allows users to create their own websites using a drag-and-drop interface. Users can add components, customize their websites, and manage their profiles. The platform includes features for saving and exporting websites as static HTML files.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Next.js",
+      "MongoDB",
+      "Tailwind"
+    ],
+    "img": "/projects/placeholder.png",
+    "liveDeployment": "",
+    "githubRepo": ""
+  },
+  {
+    "title": "EduCore - Course Management System",
+    "description": "A full-stack course management system that allows users to create, manage, and enroll in courses. Users can add course materials, manage their profiles, and search for courses. The platform includes features for linking students with teachers and managing course progress.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "Tailwind",
+      "Redux"
+    ],
+    "img": "/projects/placeholder.png",
+    "liveDeployment": "",
+    "githubRepo": ""
+  },
+  {
+    "title": "IEEE ISIMM SB CS CHAPTER WEBSITE",
+    "description": "A full-stack website for the IEEE ISIMM SB CS Chapter, built with Next.js and Tailwind css. The website features a modern design and shows the chapter's activities, events and executive board memebers.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Next.js",
+      "MongoDB",
+      "Tailwind"
+    ],
+    "img": "/projects/placeholder.png",
+    "liveDeployment": "",
+    "githubRepo": ""
+  },
+  {
+    "title": "IEEE ISIMM SB WIE AG WEBSITE",
+    "description": "A full-stack website for the IEEE ISIMM SB WIE Affinity Group, built with Next.js and Tailwind css. The website features a modern design and shows the group's activities, events and executive board memebers.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Next.js",
+      "MongoDB",
+      "Tailwind"
+    ],
+    "img": "/projects/placeholder.png",
+    "liveDeployment": "",
+    "githubRepo": ""
+  },
+  {
+    "title": "IEEE ISIMM STUDENT BRANCH WEBSITE",
+    "description": "A full-stack website for the IEEE ISIMM Student Branch, built with Next.js and Tailwind css. The website features a modern design and shows the student branch's activities, events and executive board memebers.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Next.js",
+      "MongoDB",
+      "Tailwind"
+    ],
+    "img": "/projects/placeholder.png",
+    "liveDeployment": "",
+    "githubRepo": ""
+  }
+]
