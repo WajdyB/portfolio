@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Link } from "react-scroll";
-import { FaXTwitter } from "react-icons/fa6";
 import { FiGithub } from "react-icons/fi";
 import { FaLinkedinIn } from "react-icons/fa";
 import { MdOutlineDarkMode } from "react-icons/md";
