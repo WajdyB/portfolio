@@ -9,27 +9,24 @@
       "Springboot",
       "MySQL"
     ],
-    "img": "/projects/placeholder.png",
+    "img": "/projects/kiddostradez.png",
     "liveDeployment": "",
     "githubRepo": "https://github.com/WajdyB/kidossTradezz"
   },
   {
-    "title": "JobApp - Job Application Platform",
+    "title": "JobPortal - Job Application Platform",
     "description": "A full-stack job application platform that enables users to search, save, and filter jobs by category. Users can upload their resumes, manage their profiles, and track the status of applied jobs. The platform includes an admin feature for managing job application statuses and user accounts, as well as posting new job listings on the website.",
     "techStack": [
       "HTML",
       "CSS",
       "JavaScript",
-      "React.js",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Tailwind",
-      "Redux"
+      "Next.js",
+      "Prisma",
+      "Tailwind"
     ],
-    "img": "/projects/placeholder.png",
+    "img": "/projects/job-portal.png",
     "liveDeployment": "",
-    "githubRepo": ""
+    "githubRepo": "https://github.com/WajdyB/job-portal"
   },
   {
     "title": "InvoicePRO - Invoicing Application",
@@ -42,12 +39,12 @@
       "MongoDB",
       "Tailwind"
     ],
-    "img": "/projects/placeholder.png",
+    "img": "/projects/invoice.png",
     "liveDeployment": "",
-    "githubRepo": ""
+    "githubRepo": "https://github.com/WajdyB/invoice-pro"
   },
   {
-    "title": "MyBuilder - cms for building websites",
+    "title": "CMS-Builder - cms for building websites",
     "description": "A full-stack cms application that allows users to create their own websites using a drag-and-drop interface. Users can add components, customize their websites, and manage their profiles. The platform includes features for saving and exporting websites as static HTML files.",
     "techStack": [
       "HTML",
@@ -57,9 +54,9 @@
       "MongoDB",
       "Tailwind"
     ],
-    "img": "/projects/placeholder.png",
+    "img": "/projects/cms.png",
     "liveDeployment": "",
-    "githubRepo": ""
+    "githubRepo": "https://github.com/WajdyB/builder"
   },
   {
     "title": "EduCore - Course Management System",
@@ -75,9 +72,9 @@
       "Tailwind",
       "Redux"
     ],
-    "img": "/projects/placeholder.png",
+    "img": "/projects/course-management.png",
     "liveDeployment": "",
-    "githubRepo": ""
+    "githubRepo": "https://github.com/WajdyB/course-management"
   },
   {
     "title": "IEEE ISIMM SB CS CHAPTER WEBSITE",
@@ -90,9 +87,9 @@
       "MongoDB",
       "Tailwind"
     ],
-    "img": "/projects/placeholder.png",
-    "liveDeployment": "",
-    "githubRepo": ""
+    "img": "/projects/ieee-isimm-cs.png",
+    "liveDeployment": "https://ieee-isimm-cs-website.vercel.app/",
+    "githubRepo": "https://github.com/WajdyB/ieee-isimm-cs-website"
   },
   {
     "title": "IEEE ISIMM SB WIE AG WEBSITE",
@@ -105,9 +102,24 @@
       "MongoDB",
       "Tailwind"
     ],
-    "img": "/projects/placeholder.png",
-    "liveDeployment": "",
-    "githubRepo": ""
+    "img": "/projects/ieee-isimm-wie.png",
+    "liveDeployment": "https://ieee-isimm-wie-website.vercel.app/",
+    "githubRepo": "https://github.com/WajdyB/ieee-isimm-wie-website"
+  },
+  {
+    "title": "IEEE ISIMM SB SIGHT GROUP WEBSITE",
+    "description": "A full-stack website for the IEEE ISIMM SB SIGHT Group, built with Next.js and Tailwind css. The website features a modern design and shows the sight group's activities, events and executive board memebers.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Next.js",
+      "MongoDB",
+      "Tailwind"
+    ],
+    "img": "/projects/ieee-isimm-sight.png",
+    "liveDeployment": "https://ieee-isimm-sight-website.vercel.app/",
+    "githubRepo": "https://github.com/WajdyB/ieee-isimm-sight-website"
   },
   {
     "title": "IEEE ISIMM STUDENT BRANCH WEBSITE",
@@ -120,8 +132,8 @@
       "MongoDB",
       "Tailwind"
     ],
-    "img": "/projects/placeholder.png",
-    "liveDeployment": "",
-    "githubRepo": ""
+    "img": "/projects/ieee-isimm-sb.png",
+    "liveDeployment": "https://ieee-isimm-sb-website.vercel.app/",
+    "githubRepo": "https://github.com/WajdyB/ieee-isimm-sb-website"
   }
 ]

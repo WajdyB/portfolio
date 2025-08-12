@@ -17,7 +17,7 @@ export const About: React.FC = () => {
         <section className="md:mt-8 mt-5">
           <h2 className="text-2xl font-bold">Experience</h2>
 
-          <div className="md:w-1/3 border-b pt-3 md:pb-5 pb-3">
+          <div className="w-full border-b pt-3 md:pb-5 pb-3">
             <div className='flex justify-between'>
               <h3 className="md:text-lg font-medium">Software Developer Intern</h3>
               <span className="text-xs bg-green-300 md:px-6 md:w-auto w-1/4 md:h-auto h-6 font-bold rounded-md text-green-700 text-center md:pt-1.5 pt-1">Full Time</span>
@@ -28,7 +28,7 @@ export const About: React.FC = () => {
             </div>
           </div>
 
-          <div className="md:w-1/3 border-b pt-3 md:pb-5 pb-3">
+          <div className="w-full border-b pt-3 md:pb-5 pb-3">
             <div className='flex justify-between'>
               <h3 className="md:text-lg font-medium">Software Developer Intern</h3>
               <span className="text-xs bg-green-300 md:px-6 md:w-auto w-1/4 md:h-auto h-6 font-bold rounded-md text-green-700 text-center md:pt-1.5 pt-1">Full Time</span>
@@ -42,7 +42,7 @@ export const About: React.FC = () => {
 
         <section className="md:mt-8 mt-5">
           <h2 className="text-2xl font-bold">Education</h2>
-          <div className="md:w-1/3 border-b pt-3 md:pb-5 pb-3">
+          <div className="w-full border-b pt-3 md:pb-5 pb-3">
             <div className='flex justify-between'>
               <h3 className="md:text-lg font-medium">Degree in Software Engineering</h3>
               <span className="text-xs bg-green-300 md:px-6 md:w-auto w-1/4 md:h-auto h-6 font-bold rounded-md text-green-700 text-center md:pt-1.5 pt-1">Full Time</span>
@@ -52,7 +52,7 @@ export const About: React.FC = () => {
               <span>September 2023 - Present</span>
             </div>
           </div>
-          <div className="md:w-1/3 border-b pt-3 md:pb-5 pb-3">
+          <div className="w-full border-b pt-3 md:pb-5 pb-3">
             <div className='flex justify-between'>
               <h3 className="md:text-lg font-medium">Degree in Computer Science</h3>
               <span className="text-xs bg-green-300 md:px-6 md:w-auto w-1/4 md:h-auto h-6 font-bold rounded-md text-green-700 text-center md:pt-1.5 pt-1">Full Time</span>

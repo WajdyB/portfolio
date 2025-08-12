@@ -38,6 +38,10 @@
         "img2": "/icons/express_white.png"
     },
     {
+        "name": "Next.js",
+        "img": "/icons/nextjs.png"
+    },
+    {
         "name": "MongoDB",
         "img": "/icons/mongodb.png"
     },
@@ -52,5 +56,7 @@
     {
         "name": "Github",
         "img": "/icons/github.png"
-    }  
+    }
+    
+
 ]

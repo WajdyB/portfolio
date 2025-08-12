@@ -11,17 +11,18 @@ export const Projects: React.FC = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-14 md:mx-4 mx-1 mt-8">
         {projects.map((project, index) => (
-          <article key={index} className="dark:bg-gray-800 rounded-xl shadow-effect">
+          <article key={index} className="dark:bg-gray-800 rounded-xl shadow-effect flex flex-col h-full">
             <div>
-              <img className="rounded-t-xl" src={project.img} alt={`${project.title} Preview`} />
+              <img className="rounded-t-xl w-full object-cover" src={project.img} alt={`${project.title} Preview`} />
             </div>
-
-            <div className="px-3 flex flex-col gap-2 my-3">
+            <div className="px-3 flex flex-col gap-2 my-3 flex-1">
               <h3 className="font-semibold text-lg">{project.title}</h3>
               <p className="md:text-sm text-xs md:h-40 h-32 text-gray-600 dark:text-gray-400">
                 {project.description}
               </p>
-              <div className="flex gap-2 mt-0 md:mt-1">
+            </div>
+            <div className="px-3 mt-auto mb-2">
+              <div className="flex gap-2">
                 <span className="font-semibold text-sm">Tech Stack:</span>
                 <div className="text-gray-600 flex flex-wrap dark:text-gray-400">
                   {project.techStack.map((tech, index) => (
@@ -32,7 +33,6 @@ export const Projects: React.FC = () => {
                 </div>
               </div>
             </div>
-
             <div className="flex justify-around mt-3 mb-5">
               <a
                 href={project.liveDeployment}
