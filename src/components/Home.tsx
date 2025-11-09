@@ -22,7 +22,7 @@ export const Home: React.FC = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://drive.google.com/file/d/17H-RP82DCNL-1bRD6o6D8EZHauGH3c3d/view?usp=sharing"
+            href="https://drive.google.com/file/d/1-E9szYrpl97lMVesTcED932tmZLnLWDt/view?usp=sharing"
             className="sm:text-lg mt-2 w-2/5 sm:w-1/3 text-white text-base sm:px-8 px-6 py-1 rounded-md font-medium bg-blue-700"
           >
             <div className="flex justify-center items-center gap-1">

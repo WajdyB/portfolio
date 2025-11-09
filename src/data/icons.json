@@ -56,6 +56,10 @@
     {
         "name": "Github",
         "img": "/icons/github.png"
+    },
+    {
+        "name": "Git",
+        "img": "/icons/git.png"
     }
     
 
