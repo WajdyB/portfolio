@@ -97,7 +97,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="md:pt-0 pt-2 md:text-base text-xs">
-            <p>Designed and built by Wajdy Bouon with ❤️ & ☕.</p>
+            <p>Designed and built with ❤️ & ☕.</p>
           </div>
       </div>
     </footer>

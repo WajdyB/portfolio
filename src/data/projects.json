@@ -116,5 +116,21 @@
     "img": "/projects/ieee-isimm-sb.png",
     "liveDeployment": "https://ieee-isimm-sb-website.vercel.app/",
     "githubRepo": "https://github.com/WajdyB/ieee-isimm-sb-website"
+  },
+
+  {
+    "title": "RHPro - Intelligent Human Resource Management System",
+    "description": "A full-stack intelligent human resource management system that allows users to manage work hours, attendance, leave requests, and other HR-related tasks.",
+    "techStack": [
+      "Next.js",
+      "Tailwind CSS",
+      "Prisma ORM",
+      "Supabase",
+      "Next.js",
+      "Python",
+      "Langchain",
+      "Groq LLM"
+    ],
+    "img": "/projects/admin_dashboard.png"
   }
 ]

@@ -11,7 +11,7 @@ export const Home: React.FC = () => {
         </div>
 
         <div className="sm:w-1/2 flex flex-col sm:pl-44 w-full px-6 sm:gap-2 font-bold sm:pt-12 text-3xl sm:text-5xl text-gray-900 dark:text-white">
-          <div className="flex gap-2 items-left justify-start">Hi <span className="flex"><img src="/images/handIcon.png" className="sm:h-12 h-8" alt="" />,</span> </div>
+          <div className="flex gap-2 items-left justify-start">Hi <span className="flex">,</span> </div>
           <p>My name is</p>
           <p className="bg-clip-text bg-gradient-to-r sm:pb-1 text-transparent from-blue-500 to-red-500">
             Wajdy Bouon{" "}
@@ -22,7 +22,7 @@ export const Home: React.FC = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://drive.google.com/file/d/1-E9szYrpl97lMVesTcED932tmZLnLWDt/view?usp=sharing"
+            href="https://drive.google.com/file/d/1AwdZR6WVigt0qAAhl0Y_kL9z3P3RyDr_/view?usp=sharing"
             className="sm:text-lg mt-2 w-2/5 sm:w-1/3 text-white text-base sm:px-8 px-6 py-1 rounded-md font-medium bg-blue-700"
           >
             <div className="flex justify-center items-center gap-1">
